@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654451888 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\desafio\desafio lista de produtos\desafio lista de produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"Desafio lista de produtos.h"
+
+1654448266 c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\desafio\desafio lista de produtos\desafio lista de produtos.h
+
+1654451580 source:c:\users\gabriel\desktop\fatec- ads\semestre 2\lp\desafio\desafio lista de produtos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Desafio lista de produtos.h"
+
